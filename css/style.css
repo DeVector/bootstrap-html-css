@@ -1,4 +1,17 @@
 
+
+body{
+    font: 20, Arial;
+}
 .navbar{
     background-color: #298A08;
+}
+
+.quem-somos{
+    background-color: azure;
+}
+
+.margin{
+    padding-top: 3rem;
+    padding-bottom: 10rem;
 }
